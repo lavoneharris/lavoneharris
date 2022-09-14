@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 [KeyLogger Lab in C#](https://github.com/lavoneharris/Key-Logger-Lab)
-[Vulnerability Mangement using Nessus] (https://github.com/lavoneharris/Vulnerability-Management)
+[Vulnerability Mangement using Nessus](https://github.com/lavoneharris/Vulnerability-Management)
 
 
 <h2> 🤳 Connect with me:</h2>
