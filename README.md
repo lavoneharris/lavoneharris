@@ -4,7 +4,7 @@
 
 [KeyLogger Lab in C#](https://github.com/lavoneharris/Key-Logger-Lab)<br>
 [Vulnerability Mangement using Nessus](https://github.com/lavoneharris/Vulnerability-Management)
-
+[Setting Up a Firewall via pfSense](https://github.com/lavoneharris/Setting-up-a-Firewall)
 
 <h2> 🤳 Connect with me:</h2>
 
