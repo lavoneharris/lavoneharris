@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lavone! <br/><>Cyber Security Enthusiast & Software Support Specialist</a>
+<h1>Hi, I'm Lavone! <br/>Cyber Security Enthusiast & Software Support Specialist</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
