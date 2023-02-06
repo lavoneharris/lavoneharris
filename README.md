@@ -5,7 +5,10 @@
 [KeyLogger Lab in C#](https://github.com/lavoneharris/Key-Logger-Lab)<br>
 [Vulnerability Mangement using Nessus](https://github.com/lavoneharris/Vulnerability-Management)<br>
 [Setting Up a Firewall via pfSense](https://github.com/lavoneharris/Setting-up-a-Firewall)<br>
-[Business Continuity Plan](https://github.com/lavoneharris/Business-Continuity-Plan-)
+[Business Continuity Plan](https://github.com/lavoneharris/Business-Continuity-Plan-)<br>
+[Artificat Collecting](https://github.com/lavoneharris/Artifact-Collecting)<br>
+[Categorizing Phishing Emails](https://github.com/lavoneharris/Categorizing-Phishing-Emails)
+[YARA Rules](https://github.com/lavoneharris/Making-YARA-Rules-For-Detection)
 
 
 <h2> 🤳 Connect with me:</h2>
