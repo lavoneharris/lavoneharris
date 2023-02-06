@@ -7,7 +7,7 @@
 [Setting Up a Firewall via pfSense](https://github.com/lavoneharris/Setting-up-a-Firewall)<br>
 [Business Continuity Plan](https://github.com/lavoneharris/Business-Continuity-Plan-)<br>
 [Artificat Collecting](https://github.com/lavoneharris/Artifact-Collecting)<br>
-[Categorizing Phishing Emails](https://github.com/lavoneharris/Categorizing-Phishing-Emails)
+[Categorizing Phishing Emails](https://github.com/lavoneharris/Categorizing-Phishing-Emails)<br>
 [YARA Rules](https://github.com/lavoneharris/Making-YARA-Rules-For-Detection)
 
 
