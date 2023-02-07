@@ -8,7 +8,7 @@
 [Business Continuity Plan](https://github.com/lavoneharris/Business-Continuity-Plan-)<br>
 [Artificat Collecting](https://github.com/lavoneharris/Artifact-Collecting)<br>
 [Categorizing Phishing Emails](https://github.com/lavoneharris/Categorizing-Phishing-Emails)<br>
-[YARA Rules](https://github.com/lavoneharris/Making-YARA-Rules-For-Detection)
+[YARA Rules](https://github.com/lavoneharris/Making-YARA-Rules-For-Detection)<br>
 [Failed Business Continuity Plans](https://github.com/lavoneharris/Failed-Business-Continuity-Plans)
 
 
