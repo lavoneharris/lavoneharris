@@ -9,6 +9,7 @@
 [Artificat Collecting](https://github.com/lavoneharris/Artifact-Collecting)<br>
 [Categorizing Phishing Emails](https://github.com/lavoneharris/Categorizing-Phishing-Emails)<br>
 [YARA Rules](https://github.com/lavoneharris/Making-YARA-Rules-For-Detection)
+[Failed Business Continuity Plans](https://github.com/lavoneharris/Failed-Business-Continuity-Plans)
 
 
 <h2> 🤳 Connect with me:</h2>
